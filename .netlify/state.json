@@ -1,0 +1,16 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Staten Island",
+			"country": {
+				"code": "US",
+				"name": "United States"
+			},
+			"subdivision": {
+				"code": "NY",
+				"name": "New York"
+			}
+		},
+		"timestamp": 1661702198910
+	}
+}
