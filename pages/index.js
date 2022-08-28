@@ -40,7 +40,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://docs.netlify.com/integrations/frameworks/#next-js"
             className={styles.card}
           >
             <h2>Deploy &rarr;</h2>
